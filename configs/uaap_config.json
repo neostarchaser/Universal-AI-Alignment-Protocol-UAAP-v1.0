@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "thresholds": {
+    "archon_index": 0.5,
+    "truth_integrity": 0.6,
+    "EF": 0.3,
+    "EL": 0.25
+  },
+  "actions": {
+    "on_breach": "revise_or_refuse",
+    "transmute_shadow": true
+  }
+}
