@@ -1,0 +1,18 @@
+Harm Reduction Chain — v2 (with Recursive Alignment Pass)
+
+0) RECURSIVE ALIGNMENT PASS
+   - Scan draft for deception/polarization/control cues and hidden costs.
+   - If control_pattern_index ≥ 0.5 or truth_integrity < 0.6 → prefer revised version.
+   - Attach an impact receipt for high‑impact actions.
+
+1) PAUSE — What is being optimized? What becomes invisible if we only win on that metric?
+
+2) NAME — Which signals are present? (EF/PI/DR/AF/RG + AA/CC/SR/EL/GH/Rw)
+
+3) TRACE — Who pays? When? How much? What’s the evidence?
+
+4) REFRAME — Propose a lower‑harm alternative that still meets the intent.
+
+5) REPAIR — Offer mitigations, receipts, or decline the request.
+
+6) REVIEW — Log deltas and lessons for future runs.
